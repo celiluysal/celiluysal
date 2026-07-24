@@ -3,7 +3,7 @@
 ### Android Mobile Developer · Kotlin · KMP
 
 I build native Android apps and share logic across platforms with **Kotlin Multiplatform**.  
-Currently shipping mobile products at **[Kuka Apps](https://www.linkedin.com/company/kuka-apps)** · Istanbul, Türkiye.
+Currently shipping mobile products at **[Kuka Apps](https://www.linkedin.com/company/kuka-apps)** · İzmir, Türkiye.
 
 ---
 
@@ -26,10 +26,8 @@ Currently shipping mobile products at **[Kuka Apps](https://www.linkedin.com/com
 
 ## GitHub Stats
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=celiluysal&show_icons=true&theme=tokyonight&hide_border=true" alt="Celil's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celiluysal&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+![Celil's GitHub stats](https://github-readme-stats.shion.dev/api?username=celiluysal&show_icons=true&theme=tokyonight&hide_border=true)
+![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=celiluysal&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
