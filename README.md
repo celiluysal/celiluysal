@@ -24,10 +24,10 @@ Currently shipping mobile products at **[Kuka Apps](https://www.linkedin.com/com
 
 ---
 
-## GitHub Stats
+## Project
 
-![Celil's GitHub stats](https://github-readme-stats.shion.dev/api?username=celiluysal&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=celiluysal&layout=compact&theme=tokyonight&hide_border=true)
+**[TabuRush](https://taboo-game-emce.web.app/)** — yasaklı kelime (taboo) oyunu.  
+2.500+ kelime kartı, modern tasarım ve akıcı oynanış. App Store ve Google Play’de.
 
 ---
 
