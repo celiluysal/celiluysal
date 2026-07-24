@@ -28,7 +28,7 @@ Currently shipping mobile products at **[Kuka Apps](https://www.linkedin.com/com
 
 <p>
   <a href="https://taboo-game-emce.web.app/">
-    <img src="https://taboo-game-emce.web.app/ic_TabooRush.png" alt="TabuRush icon" width="96" height="96" />
+    <img src="assets/taburush/ic_TabooRush.png" alt="TabuRush icon" width="96" height="96" />
   </a>
 </p>
 
@@ -37,18 +37,18 @@ Takımını kur, süreyi yakala, yasaklı kelimeleri kullanmadan anlat — 2.500
 
 <p>
   <a href="https://play.google.com/store/apps/details?id=com.celiluysal.taboo">
-    <img src="https://taboo-game-emce.web.app/assets/badge-google-play.png" alt="Get it on Google Play" height="54" />
+    <img src="assets/taburush/badge-google-play.png" alt="Get it on Google Play" height="54" />
   </a>
   &nbsp;
   <a href="https://apps.apple.com/tr/app/taboorush-yasakl%C4%B1-kelimeler/id6758069694">
-    <img src="https://taboo-game-emce.web.app/assets/badge-app-store.svg" alt="Download on the App Store" height="54" />
+    <img src="assets/taburush/badge-app-store.svg" alt="Download on the App Store" height="54" />
   </a>
 </p>
 
 <p>
-  <img src="https://taboo-game-emce.web.app/assets/screen-start.png" alt="TabuRush start screen" height="360" />
-  <img src="https://taboo-game-emce.web.app/assets/screen-game-red.png" alt="TabuRush game screen" height="360" />
-  <img src="https://taboo-game-emce.web.app/assets/screen-decks.png" alt="TabuRush decks screen" height="360" />
+  <img src="assets/taburush/screen-start.png" alt="TabuRush start screen" height="360" />
+  <img src="assets/taburush/screen-game-red.png" alt="TabuRush game screen" height="360" />
+  <img src="assets/taburush/screen-decks.png" alt="TabuRush decks screen" height="360" />
 </p>
 
 ---
