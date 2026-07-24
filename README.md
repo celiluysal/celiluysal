@@ -24,10 +24,32 @@ Currently shipping mobile products at **[Kuka Apps](https://www.linkedin.com/com
 
 ---
 
-## Project
+## Project — [TabuRush](https://taboo-game-emce.web.app/)
 
-**[TabuRush](https://taboo-game-emce.web.app/)** — yasaklı kelime (taboo) oyunu.  
-2.500+ kelime kartı, modern tasarım ve akıcı oynanış. App Store ve Google Play’de.
+<p>
+  <a href="https://taboo-game-emce.web.app/">
+    <img src="https://taboo-game-emce.web.app/ic_TabooRush.png" alt="TabuRush icon" width="96" height="96" />
+  </a>
+</p>
+
+**TabuRush — Yasaklı Kelimeler**, arkadaşlarınla oynadığın hızlı bir taboo / kelime anlatma oyunu.  
+Takımını kur, süreyi yakala, yasaklı kelimeleri kullanmadan anlat — 2.500+ kart, modern arayüz, App Store & Google Play’de.
+
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.celiluysal.taboo">
+    <img src="https://taboo-game-emce.web.app/assets/badge-google-play.png" alt="Get it on Google Play" height="54" />
+  </a>
+  &nbsp;
+  <a href="https://apps.apple.com/tr/app/taboorush-yasakl%C4%B1-kelimeler/id6758069694">
+    <img src="https://taboo-game-emce.web.app/assets/badge-app-store.svg" alt="Download on the App Store" height="54" />
+  </a>
+</p>
+
+<p>
+  <img src="https://taboo-game-emce.web.app/assets/screen-start.png" alt="TabuRush start screen" height="360" />
+  <img src="https://taboo-game-emce.web.app/assets/screen-game-red.png" alt="TabuRush game screen" height="360" />
+  <img src="https://taboo-game-emce.web.app/assets/screen-decks.png" alt="TabuRush decks screen" height="360" />
+</p>
 
 ---
 
